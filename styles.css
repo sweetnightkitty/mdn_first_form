@@ -1,7 +1,7 @@
 form {
     /* Center the form on the page */
     margin: 0 auto;
-    width: 400px;
+    width: 30dvw;
     /* Form outline */
     padding: 1em;
     border: 1px solid #ccc;
@@ -12,9 +12,10 @@ form {
     list-style: none;
     padding: 0;
     margin: 0;
+    align-items: center;
   }
   
-  form li + li {
+  li + li {
     margin-top: 1em;
   }
   
